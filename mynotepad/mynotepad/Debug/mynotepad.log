@@ -1,0 +1,17 @@
+﻿Build started 5/18/2017 10:36:09 AM.
+     1>Project "F:\my outputs\vc++ projects\comlete project\full project\copyed edited\mynotepad\mynotepad\mynotepad.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\my outputs\vc++ projects\comlete project\full project\copyed edited\mynotepad\Debug\mynotepad.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\mynotepad.about_notepade.resources /ASSEMBLYRESOURCE:Debug\mynotepad.find_window.resources /ASSEMBLYRESOURCE:Debug\mynotepad.MyForm.resources /ASSEMBLYRESOURCE:Debug\mynotepad.replace.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\my outputs\vc++ projects\comlete project\full project\copyed edited\mynotepad\Debug\mynotepad.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\about_notepade.obj
+         Debug\find_window.obj
+         Debug\MyForm.obj
+         Debug\replace.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         mynotepad.vcxproj -> F:\my outputs\vc++ projects\comlete project\full project\copyed edited\mynotepad\Debug\mynotepad.exe
+     1>Done Building Project "F:\my outputs\vc++ projects\comlete project\full project\copyed edited\mynotepad\mynotepad\mynotepad.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.58
